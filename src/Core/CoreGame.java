@@ -1,5 +1,5 @@
 package src.Core;
-import CharacterCore.Pokemon;
+import src.CharacterCore.Pokemon;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
